@@ -1,2 +1,1 @@
-# data-science-capstone
-HyperionDev capstones
+# HyperionDev Capstone Projects
